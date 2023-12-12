@@ -4,5 +4,8 @@
 que consistia em desenvolver um projeto com a maior resposividade possível de acordo com o meu aprendizado</h2>
 <br>
 
+<h2>DESKTOP :computer:<h2/>
 <img src="https://github.com/Afonsohhenrique/Projeto-Responsivo/blob/main/assets/Desktop.png?raw=true" alt="image-desktop"/>
+<br>
+<h2>MOBILE :iphone:</h2>
 <img src="https://github.com/Afonsohhenrique/Projeto-Responsivo/blob/main/assets/Mobile.png?raw=true" alt="image-mobile"/>
